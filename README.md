@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning advanced Java programming, data structures, and algorithms to deepen my technical expertise.
 - 💼 I’m actively seeking a Summer 2025 Data Analyst Intern co-op opportunity to apply my skills and focus on professional growth, self-development, and building confidence in a real-world work environment. 
 - 📫 How to reach me : 
-Email: prismpatel8449@gmail.com
-University Email: prism.patel@torontomu.ca
-LinkedIn: linkedin.com/in/prismpatel8449/
+  - Email: prismpatel8449@gmail.com
+  - University Email: prism.patel@torontomu.ca
+  - LinkedIn: linkedin.com/in/prismpatel8449/
 
 <!---
 PrismPatel/PrismPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
