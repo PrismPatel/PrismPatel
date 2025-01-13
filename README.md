@@ -6,8 +6,7 @@
 - 📫 How to reach me : 
   - Email: prismpatel8449@gmail.com
   - University Email: prism.patel@torontomu.ca
-  - LinkedIn: linkedin.com/in/prismpatel8449/
-
+  - LinkedIn: https://www.linkedin.com/in/prismpatel8449/
 <!---
 PrismPatel/PrismPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
