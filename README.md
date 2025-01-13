@@ -3,7 +3,8 @@
 - 🎓 I’m currently enrolled in the Bachelor of Science in Computer Science program at Toronto Metropolitan University (TMU), second-year Co-op student.
 - 🌱 I’m currently learning advanced Java programming, data structures, and algorithms to deepen my technical expertise.
 - 💼 I’m actively seeking a Summer 2025 Data Analyst Intern co-op opportunity to apply my skills and focus on professional growth, self-development, and building confidence in a real-world work environment. 
-- 📫 How to reach me : prismpatel8449@gmail.com university mail: prism.patel@torontomu.ca,     Linkedin: https://www.linkedin.com/in/prismpatel8449/
+- 📫 How to reach me : prismpatel8449@gmail.com university mail: prism.patel@torontomu.ca, 
+     Linkedin: https://www.linkedin.com/in/prismpatel8449/
 
 
 <!---
